@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "my_chat_app",
+    "slug": "snack-e9300d0a-b2aa-4e18-8d09-cbbf6a369144",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "whitehatjr/book-santa-stage-4 @ Apr 4, 2020"
+  }
+}
